@@ -118,7 +118,7 @@ Valve Corporation's experience can serve as a reference point for companies that
 
 [5] Pressman R. S. Software Engineering: a practitioner’s approach //Pressman and Associates. – 2005.
 
-[6]F. Shipper and C. C. Manz, “Employee self-management without formally designated teams: An alternative road to empowerment,” Organizational Dynamics, vol. 20, no. 3, pp. 48–61, 1992.
+[6] F. Shipper and C. C. Manz, “Employee self-management without formally designated teams: An alternative road to empowerment,” Organizational Dynamics, vol. 20, no. 3, pp. 48–61, 1992.
 
 [7] D. Thornblad, “Managing innovation without managers: Valve corp.,” Journal of Case Studies, vol. 36, no. 2, pp. 92–107, 2018.
 
